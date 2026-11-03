@@ -293,7 +293,7 @@ function Decode() {
               <p>{outputFile.name}</p>
               {isPdfOutput && (
                 <div className="mt-4 text-start">
-                  <h6>PDF Preview</h6>
+                  <label className="label-text">PDF Preview</label>
                   <iframe
                     title="Decoded PDF preview"
                     src={outputFile.url}
@@ -363,8 +363,8 @@ function Decode() {
                   </p>
 
                   {pdfVerification.result.signatures?.[0]?.basicInfo && (
-                    <div className="mt-3">
-                      <h6>Signature Details</h6>
+                    <div className="info-box mt-3">
+                      <p>Signature Details</p>
                       <ul className="mb-0 ps-3">
                         <li>
                           <strong>Name:</strong>{" "}
