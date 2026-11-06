@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="README.md"><strong>🇮🇩 Bahasa Indonesia</strong></a> | <a href="README.en.md"><strong>🇬🇧 English Version</strong></a>
+  <a href="README.md"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1e9.svg" width="18" height="18" valign="middle" alt="ID" /> <strong>Bahasa Indonesia</strong></a> | <a href="README.en.md"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1e7.svg" width="18" height="18" valign="middle" alt="GB" /> <strong>English Version</strong></a>
 </p>
 
 ---
